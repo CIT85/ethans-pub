@@ -19,16 +19,16 @@ body {
 
 /* 1. Primary Color */
 .primary {
-    background-color: #000000; /* CHANGE THIS */
+    background-color: #2d6a4f; /* CHANGE THIS */
 }
 
 /* 2. Accent Color */
 .accent {
-    background-color: #555555; /* CHANGE THIS */
+    background-color: #e9c46a; /* CHANGE THIS */
 }
 
 /* 3. Text/Light Color */
 .text {
-    background-color: #ffffff; /* CHANGE THIS */
+    background-color: #1b1b1b; /* CHANGE THIS */
     color: black; /* Dark text for light background */
 }
